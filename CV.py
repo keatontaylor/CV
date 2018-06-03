@@ -16,10 +16,10 @@ class CV(object):
 					return "Software Development Intern"
 				def getProjects():
 					return ['Creation of company-wide continous integration server using jenkins.',
-							'Mantainence and up-keep of virtual environment for builds, development and test-beds.',
-							'Assisted in release build verifications steps coordinateed by the QA team.',
-							'Engineered stanity tests for autoamted builds.',
-							'Setup a Subversion mirror at local office for faster check-outs.']
+						'Mantainence and up-keep of virtual environment for builds, development and test-beds.',
+						'Assisted in release build verifications steps coordinateed by the QA team.',
+						'Engineered stanity tests for autoamted builds.',
+						'Setup a Subversion mirror at local office for faster check-outs.']
 				def getSkills():
 					return ['Python', 'Jenkins', 'Continous Integration',
 							'ESXi', 'SVN', '...']
